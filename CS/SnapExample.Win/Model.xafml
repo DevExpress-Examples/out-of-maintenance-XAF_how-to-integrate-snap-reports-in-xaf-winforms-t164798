@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Options UIType="TabbedMDI" FormStyle="Ribbon" Skin="Office 2013" />
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="14.2.5.0" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="14.2.5.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
