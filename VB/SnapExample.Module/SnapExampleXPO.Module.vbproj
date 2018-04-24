@@ -49,31 +49,31 @@
   <ItemGroup>
     <Reference Include="DevExpress.ExpressApp.Xpo.v15.2">
       <Private>True</Private>
-      <HintPath>C:\Program Files (x86)\DevExpress 15.2\Components\Bin\Framework\DevExpress.ExpressApp.Xpo.v15.2.dll</HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Printing.v15.2.Core">
       <Private>True</Private>
-      <HintPath>C:\Program Files (x86)\DevExpress 15.2\Components\Bin\Framework\DevExpress.Printing.v15.2.Core.dll</HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Data.v15.2">
       <Private>True</Private>
-      <HintPath>C:\Program Files (x86)\DevExpress 15.2\Components\Bin\Framework\DevExpress.Data.v15.2.dll</HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.ExpressApp.v15.2">
       <Private>True</Private>
-      <HintPath>C:\Program Files (x86)\DevExpress 15.2\Components\Bin\Framework\DevExpress.ExpressApp.v15.2.dll</HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Persistent.Base.v15.2">
       <Private>True</Private>
-      <HintPath>C:\Program Files (x86)\DevExpress 15.2\Components\Bin\Framework\DevExpress.Persistent.Base.v15.2.dll</HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Persistent.BaseImpl.v15.2">
       <Private>True</Private>
-      <HintPath>C:\Program Files (x86)\DevExpress 15.2\Components\Bin\Framework\DevExpress.Persistent.BaseImpl.v15.2.dll</HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Xpo.v15.2">
       <Private>True</Private>
-      <HintPath>C:\Program Files (x86)\DevExpress 15.2\Components\Bin\Framework\DevExpress.Xpo.v15.2.dll</HintPath>
+      
     </Reference>
     <Reference Include="System">
       <Name>System</Name>
