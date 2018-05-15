@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.5">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -66,99 +66,75 @@
   <ItemGroup>
     <Reference Include="DevExpress.ExpressApp.EF.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.ExpressApp.Validation.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.ExpressApp.Validation.Win.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.Office.v15.2.Core">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.Persistent.BaseImpl.EF.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.RichEdit.v15.2.Core">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.Utils.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.BonusSkins.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.Printing.v15.2.Core">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.Data.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.ExpressApp.Xpo.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.ExpressApp.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.ExpressApp.Images.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.ExpressApp.Win.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.Persistent.Base.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.XtraGrid.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.XtraBars.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.XtraEditors.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.XtraLayout.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.XtraNavBar.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.XtraPrinting.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.XtraRichEdit.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.XtraTreeList.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.XtraVerticalGrid.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="EntityFramework, Version=4.4.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>

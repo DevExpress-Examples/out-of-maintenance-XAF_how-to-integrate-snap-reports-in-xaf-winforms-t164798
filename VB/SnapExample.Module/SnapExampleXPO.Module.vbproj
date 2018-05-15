@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.5">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -49,31 +49,24 @@
   <ItemGroup>
     <Reference Include="DevExpress.ExpressApp.Xpo.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.Printing.v15.2.Core">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.Data.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.ExpressApp.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.Persistent.Base.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.Persistent.BaseImpl.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="DevExpress.Xpo.v15.2">
       <Private>True</Private>
-      
     </Reference>
     <Reference Include="System">
       <Name>System</Name>
