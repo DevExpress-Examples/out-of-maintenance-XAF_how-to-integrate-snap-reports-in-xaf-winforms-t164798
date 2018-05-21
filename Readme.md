@@ -2,7 +2,7 @@
 
 
 UPDATE:
-Starting with 18.1, we introduced <a href="https://docs.devexpress.com/eXpressAppFramework/400003/concepts/extra-modules/office-module/office-module-overview">Office Module</a>. This module provides RichTextPropertyEditor with an ability to create reports based on a business class' properties: <a href="https://docs.devexpress.com/eXpressAppFramework/400006/concepts/extra-modules/office-module/mail-merge">Mail Merge</a>
+Starting with 18.1, we introduced <a href="https://docs.devexpress.com/eXpressAppFramework/400003/concepts/extra-modules/office-module/office-module-overview">Office Module</a>. This module provides RichTextPropertyEditor with an ability to create reports based on a business class' properties: <a href="https://docs.devexpress.com/eXpressAppFramework/400006/concepts/extra-modules/office-module/mail-merge">Mail Merge</a>.
  
 So we suggest using the new editor in new applications. The current example won't be developed anymore.
 
