@@ -1,3 +1,19 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DocumentData.cs](./CS/SnapExample.Module/BusinessObjects/DocumentData.cs) (VB: [DocumentDataSource.vb](./VB/SnapExample.Module/BusinessObjects/DocumentDataSource.vb))
+* [DocumentDataSource.cs](./CS/SnapExample.Module/BusinessObjects/DocumentDataSource.cs) (VB: [DocumentDataSource.vb](./VB/SnapExample.Module/BusinessObjects/DocumentDataSource.vb))
+* [DocumentData.cs](./CS/SnapExampleEF/BusinessObjects/DocumentData.cs) (VB: [DocumentDataSource.vb](./VB/SnapExampleEF/BusinessObjects/DocumentDataSource.vb))
+* [DocumentDataSource.cs](./CS/SnapExampleEF/BusinessObjects/DocumentDataSource.cs) (VB: [DocumentDataSource.vb](./VB/SnapExampleEF/BusinessObjects/DocumentDataSource.vb))
+* [SnapExampleDbContext.cs](./CS/SnapExampleEF/BusinessObjects/SnapExampleDbContext.cs) (VB: [SnapExampleDbContext.vb](./VB/SnapExampleEF/BusinessObjects/SnapExampleDbContext.vb))
+* [IDocumentData.cs](./CS/SnapModule/Base/IDocumentData.cs) (VB: [IDocumentData.vb](./VB/SnapModule/Base/IDocumentData.vb))
+* [IDocumentDataSource.cs](./CS/SnapModule/Base/IDocumentDataSource.cs) (VB: [IDocumentDataSource.vb](./VB/SnapModule/Base/IDocumentDataSource.vb))
+* [DocumentDataController.cs](./CS/SnapModule/Controllers/DocumentDataController.cs) (VB: [DocumentDataController.vb](./VB/SnapModule/Controllers/DocumentDataController.vb))
+* [InplaceDocumentsController.cs](./CS/SnapModule/Controllers/InplaceDocumentsController.cs) (VB: [InplaceDocumentsController.vb](./VB/SnapModule/Controllers/InplaceDocumentsController.vb))
+* [SnapDesigner.cs](./CS/SnapModule/Editors/SnapDesigner.cs) (VB: [SnapDesigner.vb](./VB/SnapModule/Editors/SnapDesigner.vb))
+* [InplaceDocumentCacheHelper.cs](./CS/SnapModule/Helpers/InplaceDocumentCacheHelper.cs) (VB: [InplaceDocumentCacheHelper.vb](./VB/SnapModule/Helpers/InplaceDocumentCacheHelper.vb))
+* **[SnapDocumentHelper.cs](./CS/SnapModule/Helpers/SnapDocumentHelper.cs) (VB: [SnapDocumentHelper.vb](./VB/SnapModule/Helpers/SnapDocumentHelper.vb))**
+<!-- default file list end -->
 # How to integrate Snap reports in XAF WinForms
 
 
